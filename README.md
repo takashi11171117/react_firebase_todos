@@ -1,8 +1,7 @@
-##Firebaseコマンドのインストール
-```npm install -g firebase-tools
-```
+## Firebaseコマンドのインストール
+`npm install -g firebase-tools`
 
-##Firebaseにデプロイ
+## Firebaseにデプロイ
 ```firebase login
 firebase init
 npm run build
